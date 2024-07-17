@@ -1,0 +1,12 @@
+
+I
+java:S1948	"'Make "juego" transient or serializable.(Õ¾şûÿÿÿÿ8»‡ëı1
+O
+java:S1948
+"2Make "gameOverListener" transient or serializable.(ÇË€Å8¼‡ëı1
+C	java:S131""Add a default case to this switch.(ù‚Óøÿÿÿÿ8Ş‡ëı1
+Q
+java:S1068
+"4Remove this unused "gameOverListener" private field.(ÇË€Å8ƒˆëı1
+P
+java:S1068".Remove this unused "scorePanel" private field.(õÂìıûÿÿÿÿ8„ˆëı1
